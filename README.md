@@ -1,4 +1,5 @@
 
+Please look at ```Project report.pdf``` for details about the project. 
 The repo consists of two parts. PDEBench (~1st month work) and PDEBench + L2L ( ~2nd month work).
 # PDEBench
 To setup the environment run
