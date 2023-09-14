@@ -1,0 +1,55 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+pdebench/**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore the datasets
+/pdebench/data
+
+# Ignore the pretrained models
+/pdebench/models/pretrained_models
+
+# Distribution / packaging
+.Python
+.build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# C extensions
+*.so
+*.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints
+pdebench/**/.ipynb_checkpoints/
+
+# Environments
+.env*
+.venv
+.venv*
+env.bak/
+env*/
+ENV*/
+venv*/
+venv/
+
+# Output directories
+outputs/
+errors/
+plots/
